@@ -106,6 +106,7 @@ El rol de visitante lo cumplen aquellos familiares o cercanos de algún recluso,
 ![](/images/estructura_organica.png)
 
 **Estimaciones**
+
 ![](/images/estimacionCostos.PNG)
 
 ![](/images/estimacionTiempos.PNG)
