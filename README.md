@@ -106,19 +106,19 @@ El rol de visitante lo cumplen aquellos familiares o cercanos de algún recluso,
 ![](/images/estructura_organica.png)
 
 **Estimaciones**
-![](/images/estimacionCostos.png)
+![](/images/estimacionCostos.PNG)
 
-![](/images/estimacionTiempos.png)
+![](/images/estimacionTiempos.PNG)
 
 **Cronograma**
 
-![](/images/cro1.png)
-![](/images/cro2.png)
-![](/images/cro3.png)
-![](/images/cro4.png)
-![](/images/cro5.png)
-![](/images/cro6.png)
-![](/images/cro7.png)
-![](/images/cro8.png)
-![](/images/cro9.png)
-![](/images/cro10.png)
+![](/images/cro1.PNG)
+![](/images/cro2.PNG)
+![](/images/cro3.PNG)
+![](/images/cro4.PNG)
+![](/images/cro5.PNG)
+![](/images/cro6.PNG)
+![](/images/cro7.PNG)
+![](/images/cro8.PNG)
+![](/images/cro9.PNG)
+![](/images/cro10.PNG)
